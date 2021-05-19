@@ -1,6 +1,6 @@
 # discord-bot1
 
-*It's a discord bot which jenerates random jokes on typing the command ?joke
+*It's a discord bot which jenerates random jokes on typing the command =>  ?joke
 
 *It also works for basic $kick and $ban commands
 
